@@ -1,0 +1,15 @@
+Library Installation Guide
+
+>>Link to download library : https://mega.nz/folder/UAl3ySKK#ILxEhZ1TmyU92jVxfSQw9A
+
+>>To add a downloaded library to Arduino, you can: 
+
+1. Move the library's main folder to the "libraries" folder in your sketchbook
+
+2. Start the Arduino IDE
+
+3. Go to Sketch > Include Library > Add .ZIP Library
+
+4. Select the library you want to add
+
+5. If the library installs correctly, you'll see a message in the notice window
